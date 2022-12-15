@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
 - Live Site URL: [live site](https://codophile-column-preview-card.netlify.app/)
 
 ## My process
